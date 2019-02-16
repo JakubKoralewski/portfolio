@@ -11,7 +11,7 @@ status = 301
 force = true
 
 [[redirects]]
-from = "*://jakubkoralewski.pl/*"
+from = "jakubkoralewski.pl/*"
 to = "https://github.com/JakubKoralewski"
 status = 404
 force = true
