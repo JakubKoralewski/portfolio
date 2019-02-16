@@ -1,7 +1,9 @@
 # redirect everything to github (WIP)
 
-https://jakubkoralewski.pl* https://github.com/JakubKoralewski:splat
-http://jakubkoralewski.pl* https://github.com/JakubKoralewski:splat
+https://jakubkoralewski.pl https://github.com/JakubKoralewski
+http://jakubkoralewski.pl https://github.com/JakubKoralewski
 
 https://jakubkoralewski.pl/* https://github.com/JakubKoralewski/:splat
 http://jakubkoralewski.pl/* https://github.com/JakubKoralewski/:splat
+
+/* https://github.com/JakubKoralewski 404
