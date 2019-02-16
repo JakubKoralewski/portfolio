@@ -2,22 +2,22 @@
 from = "https://jakubkoralewski.pl"
 to = "https://github.com/JakubKoralewski"
 status = 200
-force = true
+force = false
 
 [[redirects]]
 from = "http://jakubkoralewski.pl"
 to = "https://github.com/JakubKoralewski"
 status = 200
-force = true
+force = false
 
 [[redirects]]
 from = "https://jakubkoralewski.pl/*"
 to = "https://github.com/JakubKoralewski"
 status = 200
-force = true
+force = false
 
 [[redirects]]
 from = "http://jakubkoralewski.pl/*"
 to = "https://github.com/JakubKoralewski"
 status = 200
-force = true
+force = false
