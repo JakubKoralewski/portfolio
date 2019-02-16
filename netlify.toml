@@ -1,17 +1,23 @@
 [[redirects]]
 from = "https://jakubkoralewski.pl"
 to = "https://github.com/JakubKoralewski"
-status = 301
+status = 200
 force = true
 
 [[redirects]]
 from = "http://jakubkoralewski.pl"
 to = "https://github.com/JakubKoralewski"
-status = 301
+status = 200
 force = true
 
 [[redirects]]
-from = "jakubkoralewski.pl/*"
+from = "https://jakubkoralewski.pl/*"
 to = "https://github.com/JakubKoralewski"
-status = 404
+status = 200
+force = true
+
+[[redirects]]
+from = "http://jakubkoralewski.pl/*"
+to = "https://github.com/JakubKoralewski"
+status = 200
 force = true
