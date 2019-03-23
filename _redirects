@@ -9,6 +9,11 @@ https://www.jakubkoralewski.pl https://github.com/JakubKoralewski
 http://www.jakubkoralewski.pl https://github.com/JakubKoralewski
 
 /dziennik https://dziennik.netlify.com
+https://jakubkoralewski.pl/dziennik/:splat https://dziennik.netlify.com/:splat
+http://jakubkoralewski.pl/dziennik/:splat https://dziennik.netlify.com/:splat
+https://www.jakubkoralewski.pl/dziennik/:splat https://dziennik.netlify.com/:splat
+http://www.jakubkoralewski.pl/dziennik/:splat https://dziennik.netlify.com/:splat
+
 https://jakubkoralewski.pl/dziennik https://dziennik.netlify.com
 http://jakubkoralewski.pl/dziennik https://dziennik.netlify.com
 https://www.jakubkoralewski.pl/dziennik https://dziennik.netlify.com
