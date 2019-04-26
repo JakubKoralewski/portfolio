@@ -55,8 +55,8 @@ http://jakubkoralewski.pl/idiotduo-twitter https://github.com/JakubKoralewski/id
 https://www.jakubkoralewski.pl/idiotduo-twitter https://github.com/JakubKoralewski/idiotduo-twitter
 http://www.jakubkoralewski.pl/idiotduo-twitter https://github.com/JakubKoralewski/idiotduo-twitter
 
-https://jakubkoralewski.pl/* https://github.com/JakubKoralewski
-http://jakubkoralewski.pl/* https://github.com/JakubKoralewski
+https://jakubkoralewski.pl/:splat https://jcubed.me/:splat
+http://jakubkoralewski.pl/:splat https://jcubed.me/:splat
 
 
 
